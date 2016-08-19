@@ -6,3 +6,6 @@ The stuff I like
 - [Constant confusion: why I still use JavaScript function statements — Free Code Camp](https://medium.freecodecamp.com/constant-confusion-why-i-still-use-javascript-function-statements-984ece0b72fd#.tznhlewa6) 
 - [Git Workflow Basics — The Miners](https://blog.codeminer42.com/git-workflow-basics-d405746f6205#.xous3bjpv) 
 - [Writing Less Damn Code | HeydonWorks](http://www.heydonworks.com/article/on-writing-less-damn-code) 
+
+### August 19, 2016
+- [All Olympic Logos, Ordered By Quality — Mike Industries](https://medium.mikeindustries.com/all-olympic-logos-ordered-by-quality-965e1cc7d0cb#.faq1p9c8o) 
