@@ -9,3 +9,6 @@ The stuff I like
 
 ### August 19, 2016
 - [All Olympic Logos, Ordered By Quality — Mike Industries](https://medium.mikeindustries.com/all-olympic-logos-ordered-by-quality-965e1cc7d0cb#.faq1p9c8o) 
+
+### August 20, 2016
+- [The Hacker's Manifesto](https://www.usc.edu/~douglast/202/lecture23/manifesto.html) 
