@@ -17,3 +17,4 @@ The stuff I like
 - [Solving three cubes while juggling them - YouTube](https://www.youtube.com/watch?v=K_gHa2x2OQA&feature=youtu.be) 
 - [Hatnote Listen to Wikipedia](http://listen.hatnote.com/) 
 - [Toshi - Open Source Bitcoin Node](https://toshi.io/) 
+- [bitcoin.pdf](https://bitcoincore.org/bitcoin.pdf) 
