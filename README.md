@@ -19,3 +19,6 @@ The stuff I like
 - [Toshi - Open Source Bitcoin Node](https://toshi.io/) 
 - [bitcoin.pdf](https://bitcoincore.org/bitcoin.pdf) 
 - [game.korynunn.com](http://game.korynunn.com/) 
+
+### August 22, 2016
+- [The Lean Startup | The Movement That Is Transforming How New Products Are Built And Launched](http://theleanstartup.com/) 
