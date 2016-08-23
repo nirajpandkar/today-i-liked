@@ -22,3 +22,6 @@ The stuff I like
 
 ### August 22, 2016
 - [The Lean Startup | The Movement That Is Transforming How New Products Are Built And Launched](http://theleanstartup.com/) 
+
+### August 23, 2016
+- [Review a presentation topic · Issue #175 · kentcdodds/ama](https://github.com/kentcdodds/ama/issues/175#issuecomment-241617936) 
