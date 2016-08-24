@@ -25,3 +25,6 @@ The stuff I like
 
 ### August 23, 2016
 - [Review a presentation topic · Issue #175 · kentcdodds/ama](https://github.com/kentcdodds/ama/issues/175#issuecomment-241617936) 
+
+### August 24, 2016
+- [My Top Eight Must-Listen Developer Podcasts](https://dev.to/ben/my-eight-must-listen-podcasts) 
