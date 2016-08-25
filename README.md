@@ -30,3 +30,6 @@ The stuff I like
 - [My Top Eight Must-Listen Developer Podcasts](https://dev.to/ben/my-eight-must-listen-podcasts) 
 - [I've spent 2 years learning programming by making games, here's every project I've done! : learnprogramming](https://www.reddit.com/r/learnprogramming/comments/4z70p5/ive_spent_2_years_learning_programming_by_making/) 
 - [why GNU grep is fast](https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html) 
+
+### August 25, 2016
+- [When Big O Fools Ya](https://jackmott.github.io/programming/2016/08/20/when-bigo-foolsya.html) 
