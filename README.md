@@ -33,3 +33,4 @@ The stuff I like
 
 ### August 25, 2016
 - [When Big O Fools Ya](https://jackmott.github.io/programming/2016/08/20/when-bigo-foolsya.html) 
+- [Essential Electron](http://jlord.us/essential-electron/) 
