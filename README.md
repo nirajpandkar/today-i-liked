@@ -37,3 +37,6 @@ The stuff I like
 
 ### August 27, 2016
 - [3 Mistakes Software Developers Must Avoid](http://blog.excelwithcode.com/software-product-failure.html) 
+
+### August 29, 2016
+- [Evolution of shells in Linux](https://www.ibm.com/developerworks/library/l-linux-shells/) 
