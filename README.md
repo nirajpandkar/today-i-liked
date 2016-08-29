@@ -42,3 +42,4 @@ The stuff I like
 - [Evolution of shells in Linux](https://www.ibm.com/developerworks/library/l-linux-shells/) 
 - [GitPitch - Slideshow Presentations For Your GitHub Projects](https://gitpitch.com/) 
 - [How To Gain New Skills At Work – Xeneta – Medium](https://medium.com/xeneta/how-to-gain-new-skills-at-work-923bb088a352#.s68bgfted) 
+- [How To Gain New Skills At Work – Xeneta – Medium](https://medium.com/xeneta/how-to-gain-new-skills-at-work-923bb088a352#.s68bgfted) 
