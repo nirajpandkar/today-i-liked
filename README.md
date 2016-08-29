@@ -40,3 +40,4 @@ The stuff I like
 
 ### August 29, 2016
 - [Evolution of shells in Linux](https://www.ibm.com/developerworks/library/l-linux-shells/) 
+- [GitPitch - Slideshow Presentations For Your GitHub Projects](https://gitpitch.com/) 
