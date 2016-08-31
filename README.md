@@ -43,3 +43,6 @@ The stuff I like
 - [GitPitch - Slideshow Presentations For Your GitHub Projects](https://gitpitch.com/) 
 - [How To Gain New Skills At Work – Xeneta – Medium](https://medium.com/xeneta/how-to-gain-new-skills-at-work-923bb088a352#.s68bgfted) 
 - [How To Gain New Skills At Work – Xeneta – Medium](https://medium.com/xeneta/how-to-gain-new-skills-at-work-923bb088a352#.s68bgfted) 
+
+### August 31, 2016
+- [400,000 GitHub repositories, 1 billion files, 14 terabytes of code: Spaces or Tabs? – Medium](https://medium.com/@hoffa/400-000-github-repositories-1-billion-files-14-terabytes-of-code-spaces-or-tabs-7cfe0b5dd7fd#.t61lup9ne) 
