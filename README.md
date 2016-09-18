@@ -46,3 +46,6 @@ The stuff I like
 
 ### August 31, 2016
 - [400,000 GitHub repositories, 1 billion files, 14 terabytes of code: Spaces or Tabs? – Medium](https://medium.com/@hoffa/400-000-github-repositories-1-billion-files-14-terabytes-of-code-spaces-or-tabs-7cfe0b5dd7fd#.t61lup9ne) 
+
+### September 18, 2016
+- [Can someone please explain how does returning form .then callbacks work (Promises)? : javascript](https://www.reddit.com/r/javascript/comments/538p0n/can_someone_please_explain_how_does_returning/) 
