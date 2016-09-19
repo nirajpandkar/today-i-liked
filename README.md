@@ -52,3 +52,4 @@ The stuff I like
 
 ### September 19, 2016
 - [This daily routine will help you achieve peak productivity](http://theweek.com/articles/647288/daily-routine-help-achieve-peak-productivity) 
+- [How to build a serverless NodeJS microservice on AWS Lambda](https://medium.freecodecamp.com/building-a-nodejs-microservice-on-aws-lambda-6adb6da53cbb#.mrq39q2g6) 
