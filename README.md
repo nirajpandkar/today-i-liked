@@ -49,3 +49,6 @@ The stuff I like
 
 ### September 18, 2016
 - [Can someone please explain how does returning form .then callbacks work (Promises)? : javascript](https://www.reddit.com/r/javascript/comments/538p0n/can_someone_please_explain_how_does_returning/) 
+
+### September 19, 2016
+- [This daily routine will help you achieve peak productivity](http://theweek.com/articles/647288/daily-routine-help-achieve-peak-productivity) 
