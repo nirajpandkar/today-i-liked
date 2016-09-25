@@ -56,3 +56,6 @@ The stuff I like
 
 ### September 25, 2016
 - [Cubr | chris barker](http://www.cbarker.net/projects/cubr) 
+
+### September 26, 2016
+- [The decline of Stack Overflow](https://hackernoon.com/the-decline-of-stack-overflow-7cb69faa575d#.tt7oltb60) 
