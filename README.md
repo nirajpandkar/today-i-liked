@@ -59,3 +59,6 @@ The stuff I like
 
 ### September 26, 2016
 - [The decline of Stack Overflow](https://hackernoon.com/the-decline-of-stack-overflow-7cb69faa575d#.tt7oltb60) 
+
+### September 28, 2016
+- [How do Convolutional Neural Networks work?](http://brohrer.github.io/how_convolutional_neural_networks_work.html) 
