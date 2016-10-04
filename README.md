@@ -62,3 +62,6 @@ The stuff I like
 
 ### September 28, 2016
 - [How do Convolutional Neural Networks work?](http://brohrer.github.io/how_convolutional_neural_networks_work.html) 
+
+### October 4, 2016
+- [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.6l0l6v81z) 
