@@ -65,3 +65,6 @@ The stuff I like
 
 ### October 4, 2016
 - [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.6l0l6v81z) 
+
+### October 8, 2016
+- [A Javascript journey with only six characters](http://jazcash.com/a-javascript-journey-with-only-six-characters/) 
