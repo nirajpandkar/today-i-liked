@@ -68,3 +68,6 @@ The stuff I like
 
 ### October 8, 2016
 - [A Javascript journey with only six characters](http://jazcash.com/a-javascript-journey-with-only-six-characters/) 
+
+### October 9, 2016
+- [The Web Robots Pages](http://www.robotstxt.org/) 
