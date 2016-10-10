@@ -71,3 +71,6 @@ The stuff I like
 
 ### October 9, 2016
 - [The Web Robots Pages](http://www.robotstxt.org/) 
+
+### October 10, 2016
+- [jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.](https://github.com/jwasham/google-interview-university) 
