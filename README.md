@@ -74,3 +74,6 @@ The stuff I like
 
 ### October 10, 2016
 - [jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.](https://github.com/jwasham/google-interview-university) 
+
+### October 14, 2016
+- [Fuck You Startup World – Medium](https://medium.com/@shemag8/fuck-you-startup-world-ab6cc72fad0e#.2bb9wnjxk) 
