@@ -77,3 +77,6 @@ The stuff I like
 
 ### October 14, 2016
 - [Fuck You Startup World – Medium](https://medium.com/@shemag8/fuck-you-startup-world-ab6cc72fad0e#.2bb9wnjxk) 
+
+### October 21, 2016
+- [An Introduction to Gradient Descent and Linear Regression](https://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/) 
