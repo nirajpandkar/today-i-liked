@@ -80,3 +80,6 @@ The stuff I like
 
 ### October 21, 2016
 - [An Introduction to Gradient Descent and Linear Regression](https://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/) 
+
+### October 29, 2016
+- [reddit: the front page of the internet](https://www.reddit.com/) 
