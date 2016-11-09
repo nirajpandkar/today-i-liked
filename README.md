@@ -83,3 +83,6 @@ The stuff I like
 
 ### October 29, 2016
 - [reddit: the front page of the internet](https://www.reddit.com/) 
+
+### November 9, 2016
+- [Am I not cut out to be a programmer? Months teaching myself how to code but I still can't solve simple problems. Feeling very frustrated. : learnprogramming](https://www.reddit.com/r/learnprogramming/comments/5buasc/am_i_not_cut_out_to_be_a_programmer_months/) 
