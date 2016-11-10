@@ -89,3 +89,4 @@ The stuff I like
 
 ### November 10, 2016
 - [Learn Angular 2 Development with our Free Course](https://coursetro.com/courses/8/Learn-Angular-2-Development-with-our-Free-Course) 
+- [You will write ‘bad code’.](https://blog.prototypr.io/you-will-write-bad-code-94081bb66bec#.4vtt774dl) 
