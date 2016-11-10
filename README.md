@@ -86,3 +86,6 @@ The stuff I like
 
 ### November 9, 2016
 - [Am I not cut out to be a programmer? Months teaching myself how to code but I still can't solve simple problems. Feeling very frustrated. : learnprogramming](https://www.reddit.com/r/learnprogramming/comments/5buasc/am_i_not_cut_out_to_be_a_programmer_months/) 
+
+### November 10, 2016
+- [Learn Angular 2 Development with our Free Course](https://coursetro.com/courses/8/Learn-Angular-2-Development-with-our-Free-Course) 
