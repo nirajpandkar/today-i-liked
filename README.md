@@ -91,3 +91,6 @@ The stuff I like
 - [Learn Angular 2 Development with our Free Course](https://coursetro.com/courses/8/Learn-Angular-2-Development-with-our-Free-Course) 
 - [You will write ‘bad code’.](https://blog.prototypr.io/you-will-write-bad-code-94081bb66bec#.4vtt774dl) 
 - [Welcome to Python cheatsheet! — pysheeet](https://www.pythonsheets.com/) 
+
+### November 29, 2016
+- [100 Books Every Man Should Read | The Art of Manliness](http://www.artofmanliness.com/2016/11/28/100-books-every-man-read/) 
