@@ -94,3 +94,6 @@ The stuff I like
 
 ### November 29, 2016
 - [100 Books Every Man Should Read | The Art of Manliness](http://www.artofmanliness.com/2016/11/28/100-books-every-man-read/) 
+
+### November 30, 2016
+- [How I spend my money (fixed) : Cubers](https://www.reddit.com/r/Cubers/comments/5fp3sg/how_i_spend_my_money_fixed/) 
