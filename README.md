@@ -97,3 +97,6 @@ The stuff I like
 
 ### November 30, 2016
 - [How I spend my money (fixed) : Cubers](https://www.reddit.com/r/Cubers/comments/5fp3sg/how_i_spend_my_money_fixed/) 
+
+### December 5, 2016
+- [5 Steps to start a new application project : learnprogramming](https://www.reddit.com/r/learnprogramming/comments/5gfn0d/5_steps_to_start_a_new_application_project/) 
