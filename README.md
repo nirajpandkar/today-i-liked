@@ -100,3 +100,6 @@ The stuff I like
 
 ### December 5, 2016
 - [5 Steps to start a new application project : learnprogramming](https://www.reddit.com/r/learnprogramming/comments/5gfn0d/5_steps_to_start_a_new_application_project/) 
+
+### December 12, 2016
+- [thibmaek/awesome-raspberry-pi: A curated list of awesome Raspberry Pi tools, projects, images and resources](https://github.com/thibmaek/awesome-raspberry-pi) 
