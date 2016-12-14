@@ -103,3 +103,6 @@ The stuff I like
 
 ### December 12, 2016
 - [thibmaek/awesome-raspberry-pi: A curated list of awesome Raspberry Pi tools, projects, images and resources](https://github.com/thibmaek/awesome-raspberry-pi) 
+
+### December 14, 2016
+- [Srcset and sizes — ericportis.com](http://ericportis.com/posts/2014/srcset-sizes/) 
