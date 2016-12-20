@@ -106,3 +106,6 @@ The stuff I like
 
 ### December 14, 2016
 - [Srcset and sizes — ericportis.com](http://ericportis.com/posts/2014/srcset-sizes/) 
+
+### December 20, 2016
+- [Dataplicity: Remotely control your Raspberry Pi](https://www.dataplicity.com/) 
