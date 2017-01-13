@@ -110,3 +110,6 @@ The stuff I like
 ### December 20, 2016
 - [Dataplicity: Remotely control your Raspberry Pi](https://www.dataplicity.com/) 
 - [The Difference Between AI, Machine Learning, and Deep Learning? | NVIDIA Blog](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/) 
+
+### January 13, 2017
+- [Your First Machine Learning Project in Python Step-By-Step - Machine Learning Mastery](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/) 
