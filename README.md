@@ -114,3 +114,6 @@ The stuff I like
 ### January 13, 2017
 - [Your First Machine Learning Project in Python Step-By-Step - Machine Learning Mastery](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/) 
 - [Simple guide to confusion matrix terminology](http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/) 
+
+### January 14, 2017
+- [ASUS Wireless Router RT-AC51U - General](http://router.asus.com/Advanced_BasicFirewall_Content.asp) 
