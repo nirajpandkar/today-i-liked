@@ -117,3 +117,4 @@ The stuff I like
 
 ### January 14, 2017
 - [ASUS Wireless Router RT-AC51U - General](http://router.asus.com/Advanced_BasicFirewall_Content.asp) 
+- [scikit-learn test_size and train_size pitfalls and coming changes](http://blog.nelsonliu.me/2017/01/14/scikit-learn-train-size-test-size/) 
