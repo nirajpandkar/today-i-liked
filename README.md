@@ -122,3 +122,6 @@ The stuff I like
 
 ### January 17, 2017
 - [Berkeley Ridiculously Automated Dorm (B.R.A.D.)](http://lab.dereklow.co/brad/) 
+
+### February 21, 2017
+- [Recommending music on Spotify with deep learning – Sander Dieleman](http://benanne.github.io/2014/08/05/spotify-cnns.html) 
