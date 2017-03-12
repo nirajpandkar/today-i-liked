@@ -125,3 +125,6 @@ The stuff I like
 
 ### February 21, 2017
 - [Recommending music on Spotify with deep learning – Sander Dieleman](http://benanne.github.io/2014/08/05/spotify-cnns.html) 
+
+### March 12, 2017
+- [GitHub - kdn251/interviews: Everything you need to know to get the job.](https://github.com/kdn251/Interviews#algorithms) 
