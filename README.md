@@ -128,3 +128,6 @@ The stuff I like
 
 ### March 12, 2017
 - [GitHub - kdn251/interviews: Everything you need to know to get the job.](https://github.com/kdn251/Interviews#algorithms) 
+
+### March 14, 2017
+- [[D] A Super Harsh Guide to Machine Learning : MachineLearning](https://www.reddit.com/r/MachineLearning/comments/5z8110/d_a_super_harsh_guide_to_machine_learning/) 
