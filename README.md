@@ -131,3 +131,6 @@ The stuff I like
 
 ### March 14, 2017
 - [[D] A Super Harsh Guide to Machine Learning : MachineLearning](https://www.reddit.com/r/MachineLearning/comments/5z8110/d_a_super_harsh_guide_to_machine_learning/) 
+
+### March 26, 2017
+- [Crash Course in Convolutional Neural Networks for Machine Learning - Machine Learning Mastery](http://machinelearningmastery.com/crash-course-convolutional-neural-networks/) 
