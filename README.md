@@ -134,3 +134,4 @@ The stuff I like
 
 ### March 26, 2017
 - [Crash Course in Convolutional Neural Networks for Machine Learning - Machine Learning Mastery](http://machinelearningmastery.com/crash-course-convolutional-neural-networks/) 
+- [Understanding Convolutional Neural Networks for NLP – WildML](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/) 
