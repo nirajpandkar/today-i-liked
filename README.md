@@ -138,3 +138,6 @@ The stuff I like
 
 ### April 5, 2017
 - [mathDR/reading-text-in-the-wild: A Keras/Theano implementation of "Reading Text in the Wild with Convolutional Neural Networks" by M Jaderberg et.al.](https://github.com/mathDR/reading-text-in-the-wild) 
+
+### April 6, 2017
+- [WildML – AI, Deep Learning, NLP](http://www.wildml.com/) 
