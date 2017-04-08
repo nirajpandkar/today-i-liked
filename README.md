@@ -146,3 +146,4 @@ The stuff I like
 - [TensorFlow Tutorial #01 Simple Linear Model - YouTube](https://www.youtube.com/watch?v=wuo4JdG3SvU) 
 - [Calculus on Computational Graphs: Backpropagation -- colah's blog](http://colah.github.io/posts/2015-08-Backprop/) 
 - [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/chap3.html#softmax) 
+- [Visual Information Theory -- colah's blog](http://colah.github.io/posts/2015-09-Visual-Information/) 
