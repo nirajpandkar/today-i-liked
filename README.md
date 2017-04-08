@@ -141,3 +141,6 @@ The stuff I like
 
 ### April 6, 2017
 - [WildML – AI, Deep Learning, NLP](http://www.wildml.com/) 
+
+### April 8, 2017
+- [TensorFlow Tutorial #01 Simple Linear Model - YouTube](https://www.youtube.com/watch?v=wuo4JdG3SvU) 
