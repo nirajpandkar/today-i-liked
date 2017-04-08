@@ -144,3 +144,4 @@ The stuff I like
 
 ### April 8, 2017
 - [TensorFlow Tutorial #01 Simple Linear Model - YouTube](https://www.youtube.com/watch?v=wuo4JdG3SvU) 
+- [Calculus on Computational Graphs: Backpropagation -- colah's blog](http://colah.github.io/posts/2015-08-Backprop/) 
