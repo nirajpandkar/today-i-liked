@@ -147,3 +147,4 @@ The stuff I like
 - [Calculus on Computational Graphs: Backpropagation -- colah's blog](http://colah.github.io/posts/2015-08-Backprop/) 
 - [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/chap3.html#softmax) 
 - [Visual Information Theory -- colah's blog](http://colah.github.io/posts/2015-09-Visual-Information/) 
+- [What is Softmax Regression and How is it Related to Logistic Regression?](http://www.kdnuggets.com/2016/07/softmax-regression-related-logistic-regression.html) 
