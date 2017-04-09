@@ -148,3 +148,6 @@ The stuff I like
 - [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/chap3.html#softmax) 
 - [Visual Information Theory -- colah's blog](http://colah.github.io/posts/2015-09-Visual-Information/) 
 - [What is Softmax Regression and How is it Related to Logistic Regression?](http://www.kdnuggets.com/2016/07/softmax-regression-related-logistic-regression.html) 
+
+### April 9, 2017
+- [Simple end-to-end TensorFlow examples – Bcomposes](http://bcomposes.com/2015/11/26/simple-end-to-end-tensorflow-examples/) 
