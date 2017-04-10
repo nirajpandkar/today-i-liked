@@ -151,3 +151,6 @@ The stuff I like
 
 ### April 9, 2017
 - [Simple end-to-end TensorFlow examples – Bcomposes](http://bcomposes.com/2015/11/26/simple-end-to-end-tensorflow-examples/) 
+
+### April 10, 2017
+- [What have you tried? - Matt Gemmell](http://mattgemmell.com/what-have-you-tried/) 
