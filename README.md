@@ -154,3 +154,6 @@ The stuff I like
 
 ### April 10, 2017
 - [What have you tried? - Matt Gemmell](http://mattgemmell.com/what-have-you-tried/) 
+
+### April 13, 2017
+- [TensorFlow-Tutorials/01_Simple_Linear_Model.ipynb at master · Hvass-Labs/TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/01_Simple_Linear_Model.ipynb) 
