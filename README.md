@@ -157,3 +157,6 @@ The stuff I like
 
 ### April 13, 2017
 - [TensorFlow-Tutorials/01_Simple_Linear_Model.ipynb at master · Hvass-Labs/TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/01_Simple_Linear_Model.ipynb) 
+
+### April 14, 2017
+- [How We Built r/Place – Upvoted](https://redditblog.com/2017/04/13/how-we-built-rplace/) 
