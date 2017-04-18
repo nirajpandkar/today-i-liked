@@ -160,3 +160,6 @@ The stuff I like
 
 ### April 14, 2017
 - [How We Built r/Place – Upvoted](https://redditblog.com/2017/04/13/how-we-built-rplace/) 
+
+### April 18, 2017
+- [LSTM Neural Network for Time Series Prediction | Jakob Aungiers](http://www.jakob-aungiers.com/articles/a/LSTM-Neural-Network-for-Time-Series-Prediction) 
