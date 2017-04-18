@@ -163,3 +163,4 @@ The stuff I like
 
 ### April 18, 2017
 - [LSTM Neural Network for Time Series Prediction | Jakob Aungiers](http://www.jakob-aungiers.com/articles/a/LSTM-Neural-Network-for-Time-Series-Prediction) 
+- [tgjeon/TensorFlow-Tutorials-for-Time-Series: TensorFlow Tutorial for Time Series Prediction](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series) 
