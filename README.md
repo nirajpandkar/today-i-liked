@@ -164,3 +164,6 @@ The stuff I like
 ### April 18, 2017
 - [LSTM Neural Network for Time Series Prediction | Jakob Aungiers](http://www.jakob-aungiers.com/articles/a/LSTM-Neural-Network-for-Time-Series-Prediction) 
 - [tgjeon/TensorFlow-Tutorials-for-Time-Series: TensorFlow Tutorial for Time Series Prediction](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series) 
+
+### May 2, 2017
+- [I'm that multi-millionaire app developer who explained what it's like being rich after growing up poor. AMA! : IAmA](https://www.reddit.com/r/IAmA/comments/68pck7/im_that_multimillionaire_app_developer_who/) 
