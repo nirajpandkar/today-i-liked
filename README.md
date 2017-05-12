@@ -167,3 +167,6 @@ The stuff I like
 
 ### May 2, 2017
 - [I'm that multi-millionaire app developer who explained what it's like being rich after growing up poor. AMA! : IAmA](https://www.reddit.com/r/IAmA/comments/68pck7/im_that_multimillionaire_app_developer_who/) 
+
+### May 12, 2017
+- [Clustering with Scikit with GIFs - dashee87.github.io](https://dashee87.github.io/data%20science/general/Clustering-with-Scikit-with-GIFs/) 
