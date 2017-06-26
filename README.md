@@ -170,3 +170,6 @@ The stuff I like
 
 ### May 12, 2017
 - [Clustering with Scikit with GIFs - dashee87.github.io](https://dashee87.github.io/data%20science/general/Clustering-with-Scikit-with-GIFs/) 
+
+### June 26, 2017
+- [Understanding the “this” keyword in JavaScript](https://toddmotto.com/understanding-the-this-keyword-in-javascript/) 
