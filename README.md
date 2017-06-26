@@ -173,3 +173,4 @@ The stuff I like
 
 ### June 26, 2017
 - [Understanding the “this” keyword in JavaScript](https://toddmotto.com/understanding-the-this-keyword-in-javascript/) 
+- [learn.knockoutjs.com](http://learn.knockoutjs.com/#/?tutorial=collections) 
