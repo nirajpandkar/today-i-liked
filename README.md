@@ -174,3 +174,6 @@ The stuff I like
 ### June 26, 2017
 - [Understanding the “this” keyword in JavaScript](https://toddmotto.com/understanding-the-this-keyword-in-javascript/) 
 - [learn.knockoutjs.com](http://learn.knockoutjs.com/#/?tutorial=collections) 
+
+### June 27, 2017
+- [Top 10 Quora Machine Learning Writers and Their Best Advice, Updated](http://www.kdnuggets.com/2017/06/top-quora-machine-learning-writers.html) 
