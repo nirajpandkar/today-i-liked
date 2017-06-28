@@ -177,3 +177,6 @@ The stuff I like
 
 ### June 27, 2017
 - [Top 10 Quora Machine Learning Writers and Their Best Advice, Updated](http://www.kdnuggets.com/2017/06/top-quora-machine-learning-writers.html) 
+
+### June 28, 2017
+- [Source Code Comment Styling: Tips and Best Practices - Hongkiat](http://www.hongkiat.com/blog/source-code-comment-styling-tips/) 
