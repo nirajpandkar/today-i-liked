@@ -180,3 +180,6 @@ The stuff I like
 
 ### June 28, 2017
 - [Source Code Comment Styling: Tips and Best Practices - Hongkiat](http://www.hongkiat.com/blog/source-code-comment-styling-tips/) 
+
+### July 1, 2017
+- [Algorithm programming tips and tricks | peteris.rocks](https://peteris.rocks/blog/algorithm-programming-tips-and-tricks/) 
