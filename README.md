@@ -183,3 +183,4 @@ The stuff I like
 
 ### July 1, 2017
 - [Algorithm programming tips and tricks | peteris.rocks](https://peteris.rocks/blog/algorithm-programming-tips-and-tricks/) 
+- [C++ Tricks - Codeforces](http://codeforces.com/blog/entry/15643) 
