@@ -185,3 +185,4 @@ The stuff I like
 - [Algorithm programming tips and tricks | peteris.rocks](https://peteris.rocks/blog/algorithm-programming-tips-and-tricks/) 
 - [C++ Tricks - Codeforces](http://codeforces.com/blog/entry/15643) 
 - [Data Structures and Algorithms - CodeChef Discuss](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms) 
+- [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6) 
