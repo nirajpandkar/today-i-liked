@@ -190,3 +190,4 @@ The stuff I like
 ### July 3, 2017
 - [TopCoder Feature Articles](https://community.topcoder.com/tc?module=Static&d1=features&d2=082803) 
 - [SORTING](http://sorting.at/) 
+- [Sorting Algorithm Animations | Toptal](https://www.toptal.com/developers/sorting-algorithms/) 
