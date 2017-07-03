@@ -186,3 +186,6 @@ The stuff I like
 - [C++ Tricks - Codeforces](http://codeforces.com/blog/entry/15643) 
 - [Data Structures and Algorithms - CodeChef Discuss](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms) 
 - [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6) 
+
+### July 3, 2017
+- [TopCoder Feature Articles](https://community.topcoder.com/tc?module=Static&d1=features&d2=082803) 
