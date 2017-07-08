@@ -194,3 +194,6 @@ The stuff I like
 
 ### July 4, 2017
 - [How big businesses are using Machine Learning? – Udacity India Inc. – Medium](https://medium.com/udacity-india-inc/how-big-businesses-are-using-machine-learning-d0f221743893?vero_id=8405666932&vero_conv=Z3_qSuIADu6XuicUr7QBYlqN7iRU9geUXo-sywY8uV9qCqeHmppQBBXTxi7WklPdUtyw37JhGh_iNVO9rJRU7KB--o1kDd3A) 
+
+### July 8, 2017
+- [The Prime Database: The Nth Prime Algorithm](http://primes.utm.edu/nthprime/algorithm.php) 
