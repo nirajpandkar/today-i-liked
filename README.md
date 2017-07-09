@@ -198,3 +198,6 @@ The stuff I like
 ### July 8, 2017
 - [The Prime Database: The Nth Prime Algorithm](http://primes.utm.edu/nthprime/algorithm.php) 
 - [Sieve of Eratosthenes - GeeksforGeeks](http://www.geeksforgeeks.org/sieve-of-eratosthenes/) 
+
+### July 9, 2017
+- [These IIT graduates have built an electric scooter that charges faster than your phone — Quartz](https://qz.com/440622/these-iit-graduates-have-built-an-electric-scooter-that-charges-faster-than-your-phone/) 
