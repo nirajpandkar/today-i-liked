@@ -201,3 +201,6 @@ The stuff I like
 
 ### July 9, 2017
 - [These IIT graduates have built an electric scooter that charges faster than your phone — Quartz](https://qz.com/440622/these-iit-graduates-have-built-an-electric-scooter-that-charges-faster-than-your-phone/) 
+
+### July 13, 2017
+- [The emotional journey of creating anything great | Jokeit.org](http://jokeit.org/the-emotional-journey-of-creating-anything-great/) 
