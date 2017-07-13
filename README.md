@@ -205,3 +205,4 @@ The stuff I like
 ### July 13, 2017
 - [The emotional journey of creating anything great | Jokeit.org](http://jokeit.org/the-emotional-journey-of-creating-anything-great/) 
 - [That Common Misconception About Probability – Math Memoirs – Medium](https://medium.com/i-math/that-common-misconception-about-probabilities-3c507b892371) 
+- [The Failed Algorithms — Why NOT to start a startup in your twenties?](https://medium.com/@shauryashahi/the-failed-algorithms-why-not-to-start-a-startup-in-your-twenties-9d5bb83510a5) 
