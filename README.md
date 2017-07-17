@@ -209,3 +209,6 @@ The stuff I like
 
 ### July 16, 2017
 - [A Painless Q-Learning Tutorial](http://mnemstudio.org/path-finding-q-learning-tutorial.htm) 
+
+### July 17, 2017
+- [Howto: Backup and restore your system!](https://ubuntuforums.org/showthread.php?t=35087) 
