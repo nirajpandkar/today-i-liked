@@ -216,3 +216,4 @@ The stuff I like
 ### July 18, 2017
 - [Foodborne Chicago finds dodgy restaurants with tweets, and R](http://blog.revolutionanalytics.com/2013/08/foodborne-chicago.html) 
 - [Foodborne Chicago finds dodgy restaurants with tweets, and R](http://blog.revolutionanalytics.com/2013/08/foodborne-chicago.html) 
+- [ŷhat | ROC Curves in Python and R](http://blog.yhat.com/posts/roc-curves.html) 
