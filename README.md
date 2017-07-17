@@ -212,3 +212,6 @@ The stuff I like
 
 ### July 17, 2017
 - [Howto: Backup and restore your system!](https://ubuntuforums.org/showthread.php?t=35087) 
+
+### July 18, 2017
+- [Foodborne Chicago finds dodgy restaurants with tweets, and R](http://blog.revolutionanalytics.com/2013/08/foodborne-chicago.html) 
