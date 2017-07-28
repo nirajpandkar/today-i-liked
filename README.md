@@ -221,3 +221,6 @@ The stuff I like
 ### July 19, 2017
 - [[P] In this project I tried to train Chrome's Trex character to learn to play by looking my gameplay (Supervised). : MachineLearning](https://www.reddit.com/r/MachineLearning/comments/6nnmdy/p_in_this_project_i_tried_to_train_chromes_trex/) 
 - [[P] Gesture Recognition using Convolution Neural Network : MachineLearning](https://www.reddit.com/r/MachineLearning/comments/6mdqpa/p_gesture_recognition_using_convolution_neural/) 
+
+### July 28, 2017 
+- [Deep Neural Network for Music Source Separation in Tensorflow — music source separation documentation](https://andabi.github.io/music-source-separation/) 
