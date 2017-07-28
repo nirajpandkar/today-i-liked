@@ -224,3 +224,4 @@ The stuff I like
 
 ### July 28, 2017 
 - [Deep Neural Network for Music Source Separation in Tensorflow — music source separation documentation](https://andabi.github.io/music-source-separation/) 
+- [Better Exploration with Parameter Noise](https://blog.openai.com/better-exploration-with-parameter-noise/) 
