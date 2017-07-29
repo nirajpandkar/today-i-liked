@@ -233,3 +233,4 @@ The stuff I like
 - [Node.js Emerging as the Universal Development Framework for a Diversity of Applications](https://hackernoon.com/node-js-emerging-as-the-universal-development-framework-for-a-diversity-of-applications-c2e788290f5f) 
 - [Solving the Traveling Pacman Problem – Robert Grosse – Medium](https://medium.com/@robertgrosse/solving-the-traveling-pacman-problem-39c0872428bc) 
 - [Artificial Intelligence Is Stuck. Here’s How to Move It Forward. - The New York Times](https://www.nytimes.com/2017/07/29/opinion/sunday/artificial-intelligence-is-stuck-heres-how-to-move-it-forward.html) 
+- [AI Consultants For Hire - Sigmoidal | Introduction to TensorFlow @ AWS](https://sigmoidal.io/tensorflow-1-0-is-here-lets-do-some-deep-learning-on-the-amazon-cloud/) 
