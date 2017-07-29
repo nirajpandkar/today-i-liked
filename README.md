@@ -228,3 +228,4 @@ The stuff I like
 
 ### July 29, 2017 
 - [TrueSkill™ Ranking System - Microsoft Research](https://www.microsoft.com/en-us/research/project/trueskill-ranking-system/) 
+- [Elo rating system - HowlingPixel](https://howlingpixel.com/wiki/Elo_rating_system) 
