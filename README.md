@@ -231,3 +231,4 @@ The stuff I like
 - [Elo rating system - HowlingPixel](https://howlingpixel.com/wiki/Elo_rating_system) 
 - [Pandas in a nutshell – Kanoki](http://kanoki.org/2017/07/16/pandas-in-a-nutshell/) 
 - [Node.js Emerging as the Universal Development Framework for a Diversity of Applications](https://hackernoon.com/node-js-emerging-as-the-universal-development-framework-for-a-diversity-of-applications-c2e788290f5f) 
+- [Solving the Traveling Pacman Problem – Robert Grosse – Medium](https://medium.com/@robertgrosse/solving-the-traveling-pacman-problem-39c0872428bc) 
