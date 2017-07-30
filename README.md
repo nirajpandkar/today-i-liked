@@ -234,3 +234,6 @@ The stuff I like
 - [Solving the Traveling Pacman Problem – Robert Grosse – Medium](https://medium.com/@robertgrosse/solving-the-traveling-pacman-problem-39c0872428bc) 
 - [Artificial Intelligence Is Stuck. Here’s How to Move It Forward. - The New York Times](https://www.nytimes.com/2017/07/29/opinion/sunday/artificial-intelligence-is-stuck-heres-how-to-move-it-forward.html) 
 - [AI Consultants For Hire - Sigmoidal | Introduction to TensorFlow @ AWS](https://sigmoidal.io/tensorflow-1-0-is-here-lets-do-some-deep-learning-on-the-amazon-cloud/) 
+
+### July 30, 2017 
+- [Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html) 
