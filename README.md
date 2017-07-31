@@ -237,3 +237,6 @@ The stuff I like
 
 ### July 30, 2017 
 - [Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html) 
+
+### July 31, 2017 
+- [Learning Rate Schedules and Adaptive Learning Rate Methods for Deep Learning](https://medium.com/towards-data-science/learning-rate-schedules-and-adaptive-learning-rate-methods-for-deep-learning-2c8f433990d1) 
