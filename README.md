@@ -240,3 +240,6 @@ The stuff I like
 
 ### July 31, 2017 
 - [Learning Rate Schedules and Adaptive Learning Rate Methods for Deep Learning](https://medium.com/towards-data-science/learning-rate-schedules-and-adaptive-learning-rate-methods-for-deep-learning-2c8f433990d1) 
+
+### August 3, 2017 
+- [Detecting bats by recognising their sound with Tensorflow](https://medium.com/@rmeertens/detecting-bats-by-recognising-their-sound-with-tensorflow-cdd5e1c22b14) 
