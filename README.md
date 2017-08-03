@@ -245,3 +245,4 @@ The stuff I like
 - [Detecting bats by recognising their sound with Tensorflow](https://medium.com/@rmeertens/detecting-bats-by-recognising-their-sound-with-tensorflow-cdd5e1c22b14) 
 - [OpenAI Universe part 3: playing Space Invaders with deep reinforcement learning](https://medium.com/@rmeertens/openai-universe-part-3-playing-space-invaders-with-deep-reinforcement-learning-3c40eeb4589d) 
 - [My Curated List of AI and Machine Learning Resources from Around the Web](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524) 
+- [Ensemble Methods in Machine Learning: What are They and Why Use Them?](https://medium.com/towards-data-science/ensemble-methods-in-machine-learning-what-are-they-and-why-use-them-68ec3f9fef5f) 
