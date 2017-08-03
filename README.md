@@ -243,3 +243,4 @@ The stuff I like
 
 ### August 3, 2017 
 - [Detecting bats by recognising their sound with Tensorflow](https://medium.com/@rmeertens/detecting-bats-by-recognising-their-sound-with-tensorflow-cdd5e1c22b14) 
+- [OpenAI Universe part 3: playing Space Invaders with deep reinforcement learning](https://medium.com/@rmeertens/openai-universe-part-3-playing-space-invaders-with-deep-reinforcement-learning-3c40eeb4589d) 
