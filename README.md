@@ -251,3 +251,4 @@ The stuff I like
 ### August 7, 2017 
 - [UCL Course on Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) 
 - [Reinforcement Learning Book](http://incompleteideas.net/sutton/book/bookdraft2017june.pdf) 
+- [Learning Reinforcement Learning (with Code, Exercises and Solutions) – WildML](http://www.wildml.com/2016/10/learning-reinforcement-learning/) 
