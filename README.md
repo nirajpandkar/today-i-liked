@@ -247,3 +247,6 @@ The stuff I like
 - [My Curated List of AI and Machine Learning Resources from Around the Web](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524) 
 - [Ensemble Methods in Machine Learning: What are They and Why Use Them?](https://medium.com/towards-data-science/ensemble-methods-in-machine-learning-what-are-they-and-why-use-them-68ec3f9fef5f) 
 - [Transitioning entirely to neural machine translation | Engineering Blog | Facebook Code](https://code.facebook.com/posts/289921871474277/transitioning-entirely-to-neural-machine-translation/) 
+
+### August 7, 2017 
+- [UCL Course on Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) 
