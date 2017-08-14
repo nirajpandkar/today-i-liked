@@ -252,3 +252,6 @@ The stuff I like
 - [UCL Course on Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) 
 - [Reinforcement Learning Book](http://incompleteideas.net/sutton/book/bookdraft2017june.pdf) 
 - [Learning Reinforcement Learning (with Code, Exercises and Solutions) – WildML](http://www.wildml.com/2016/10/learning-reinforcement-learning/) 
+
+### August 14, 2017 
+- [Keep it simple! How to understand Gradient Descent algorithm](http://www.kdnuggets.com/2017/04/simple-understand-gradient-descent-algorithm.html) 
