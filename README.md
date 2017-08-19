@@ -255,3 +255,6 @@ The stuff I like
 
 ### August 14, 2017 
 - [Keep it simple! How to understand Gradient Descent algorithm](http://www.kdnuggets.com/2017/04/simple-understand-gradient-descent-algorithm.html) 
+
+### August 19, 2017 
+- [Thoughts after taking the Deeplearning.ai courses – Towards Data Science – Medium](https://medium.com/towards-data-science/thoughts-after-taking-the-deeplearning-ai-courses-8568f132153) 
