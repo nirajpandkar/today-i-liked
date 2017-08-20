@@ -259,3 +259,6 @@ The stuff I like
 ### August 19, 2017 
 - [Thoughts after taking the Deeplearning.ai courses – Towards Data Science – Medium](https://medium.com/towards-data-science/thoughts-after-taking-the-deeplearning-ai-courses-8568f132153) 
 - [Deep Learning For Coders—36 hours of lessons for free](http://course.fast.ai/lessons/lesson1.html) 
+
+### August 20, 2017 
+- [Understanding Activation Functions in Neural Networks](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0) 
