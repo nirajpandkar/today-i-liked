@@ -265,3 +265,4 @@ The stuff I like
 - [lecture_slides_lec6.pdf](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf) 
 - [What I’ve learned from studying Robotics in Japan for two weeks](https://medium.com/towards-data-science/what-ive-learned-from-studying-robotics-in-japan-for-two-weeks-bd252961853f) 
 - [Pandas tips and tricks – Towards Data Science – Medium](https://medium.com/towards-data-science/pandas-tips-and-tricks-33bcc8a40bb9) 
+- [Boosting in Machine Learning and the Implementation of XGBoost in Python](https://medium.com/towards-data-science/boosting-in-machine-learning-and-the-implementation-of-xgboost-in-python-fb5365e9f2a0) 
