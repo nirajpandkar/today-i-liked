@@ -270,3 +270,6 @@ The stuff I like
 
 ### August 23, 2017 
 - [How to create a Neural Network in JavaScript in only 30 lines of code](https://medium.freecodecamp.org/how-to-create-a-neural-network-in-javascript-in-only-30-lines-of-code-343dafc50d49) 
+
+### August 24, 2017 
+- [Admiring the cake instead of eating it](http://ghost---shadow.github.io/post/2017/06/19/NotTouchingIt.html) 
