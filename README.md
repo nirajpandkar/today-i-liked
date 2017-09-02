@@ -273,3 +273,6 @@ The stuff I like
 
 ### August 24, 2017 
 - [Admiring the cake instead of eating it](http://ghost---shadow.github.io/post/2017/06/19/NotTouchingIt.html) 
+
+### September 2, 2017 
+- [Outlier App: An Interactive Visualization of Outlier Algorithms | DataScience+](https://datascienceplus.com/outlier-app-an-interactive-visualization-of-outlier-algorithms/) 
