@@ -276,3 +276,4 @@ The stuff I like
 
 ### September 2, 2017 
 - [Outlier App: An Interactive Visualization of Outlier Algorithms | DataScience+](https://datascienceplus.com/outlier-app-an-interactive-visualization-of-outlier-algorithms/) 
+- [How Long Does it Take to (Quick) Draw a Dog?](http://vallandingham.me/quickdraw/) 
