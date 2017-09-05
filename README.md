@@ -277,3 +277,6 @@ The stuff I like
 ### September 2, 2017 
 - [Outlier App: An Interactive Visualization of Outlier Algorithms | DataScience+](https://datascienceplus.com/outlier-app-an-interactive-visualization-of-outlier-algorithms/) 
 - [How Long Does it Take to (Quick) Draw a Dog?](http://vallandingham.me/quickdraw/) 
+
+### September 5, 2017 
+- [Essentials of Machine Learning Algorithms (with Python and R Codes)](https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/?utm_source=reddit&utm_medium=social&utm_campaign=web) 
