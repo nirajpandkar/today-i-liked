@@ -280,3 +280,6 @@ The stuff I like
 
 ### September 5, 2017 
 - [Essentials of Machine Learning Algorithms (with Python and R Codes)](https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/?utm_source=reddit&utm_medium=social&utm_campaign=web) 
+
+### September 14, 2017 
+- [Dimensionality Reduction Using t-SNE | Displayr](https://www.displayr.com/using-t-sne-to-visualize-data-before-prediction/) 
