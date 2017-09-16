@@ -283,3 +283,6 @@ The stuff I like
 
 ### September 14, 2017 
 - [Dimensionality Reduction Using t-SNE | Displayr](https://www.displayr.com/using-t-sne-to-visualize-data-before-prediction/) 
+
+### September 16, 2017 
+- [MLOwl - Blog about Machine Learning et al.](http://www.mlowl.com/category/neural-network/) 
