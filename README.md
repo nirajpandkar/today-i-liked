@@ -286,3 +286,6 @@ The stuff I like
 
 ### September 16, 2017 
 - [MLOwl - Blog about Machine Learning et al.](http://www.mlowl.com/category/neural-network/) 
+
+### September 17, 2017 
+- [seq2seq: the clown car of deep learning – Dev Nag – Medium](https://medium.com/@devnag/seq2seq-the-clown-car-of-deep-learning-f88e1204dac3) 
