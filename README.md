@@ -289,3 +289,4 @@ The stuff I like
 
 ### September 17, 2017 
 - [seq2seq: the clown car of deep learning – Dev Nag – Medium](https://medium.com/@devnag/seq2seq-the-clown-car-of-deep-learning-f88e1204dac3) 
+- [Introduction to K-means Clustering](https://www.datascience.com/blog/introduction-to-k-means-clustering-algorithm-learn-data-science-tutorials) 
