@@ -293,3 +293,6 @@ The stuff I like
 
 ### September 24, 2017 
 - [Python REST API with Flask - Source Dexter](https://sourcedexter.com/python-rest-api-flask/) 
+
+### September 26, 2017 
+- [Machine Learning without Data Preparation == Cooking without Fire](https://medium.com/towards-data-science/machine-learning-without-data-preparation-cooking-without-fire-df1eb280c8cf) 
