@@ -296,3 +296,4 @@ The stuff I like
 
 ### September 26, 2017 
 - [Machine Learning without Data Preparation == Cooking without Fire](https://medium.com/towards-data-science/machine-learning-without-data-preparation-cooking-without-fire-df1eb280c8cf) 
+- [Applying Deep Learning to Real-world Problems](http://www.kdnuggets.com/2017/06/applying-deep-learning-real-world-problems.html) 
