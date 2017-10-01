@@ -304,3 +304,4 @@ The stuff I like
 
 ### October 1, 2017 
 - [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/transfer-learning/) 
+- [Transfer Learning using Keras – Towards Data Science – Medium](https://medium.com/towards-data-science/transfer-learning-using-keras-d804b2e04ef8) 
