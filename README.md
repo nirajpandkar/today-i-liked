@@ -301,3 +301,6 @@ The stuff I like
 ### September 27, 2017 
 - [What are Creative Adversarial Networks (CANs)? – Hacker Noon](https://hackernoon.com/what-are-creative-adversarial-networks-cans-bb81d09aa235) 
 - [Machine Learning  |  Google Developers](https://developers.google.com/machine-learning/glossary/#p) 
+
+### October 1, 2017 
+- [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/transfer-learning/) 
