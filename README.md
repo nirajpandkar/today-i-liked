@@ -305,3 +305,6 @@ The stuff I like
 ### October 1, 2017 
 - [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/transfer-learning/) 
 - [Transfer Learning using Keras – Towards Data Science – Medium](https://medium.com/towards-data-science/transfer-learning-using-keras-d804b2e04ef8) 
+
+### October 12, 2017 
+- [Spotify’s Discover Weekly: How machine learning finds your new music](https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe) 
