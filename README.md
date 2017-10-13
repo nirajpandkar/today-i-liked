@@ -308,3 +308,6 @@ The stuff I like
 
 ### October 12, 2017 
 - [Spotify’s Discover Weekly: How machine learning finds your new music](https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe) 
+
+### October 13, 2017 
+- [Contains Duplicate - LeetCode Articles](https://leetcode.com/articles/contains-duplicate/) 
