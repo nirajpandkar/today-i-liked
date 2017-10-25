@@ -311,3 +311,6 @@ The stuff I like
 
 ### October 13, 2017 
 - [Contains Duplicate - LeetCode Articles](https://leetcode.com/articles/contains-duplicate/) 
+
+### October 25, 2017 
+- [Whiteboard Interview with Arrays and Hash Maps - Whiteboard Wednesday - YouTube](https://www.youtube.com/watch?v=bMF2fG9eY0A) 
