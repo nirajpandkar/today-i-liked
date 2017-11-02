@@ -314,3 +314,6 @@ The stuff I like
 
 ### October 25, 2017 
 - [Whiteboard Interview with Arrays and Hash Maps - Whiteboard Wednesday - YouTube](https://www.youtube.com/watch?v=bMF2fG9eY0A) 
+
+### November 2, 2017 
+- [26 time-management tricks I wish I'd known at 20 | BusinessInsider India](http://www.businessinsider.in/26-time-management-tricks-I-wish-Id-known-at-20/26-time-management-tricks-I-wish-Id-known-at-20/slideshow/61417377.cms) 
