@@ -317,3 +317,6 @@ The stuff I like
 
 ### November 2, 2017 
 - [26 time-management tricks I wish I'd known at 20 | BusinessInsider India](http://www.businessinsider.in/26-time-management-tricks-I-wish-Id-known-at-20/26-time-management-tricks-I-wish-Id-known-at-20/slideshow/61417377.cms) 
+
+### November 21, 2017 
+- [Are Machines Biased or Are We Biased Against Machines?](https://towardsdatascience.com/are-machines-biased-or-are-we-biased-against-machines-17982310152b) 
