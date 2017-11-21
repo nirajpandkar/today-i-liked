@@ -322,3 +322,4 @@ The stuff I like
 - [Are Machines Biased or Are We Biased Against Machines?](https://towardsdatascience.com/are-machines-biased-or-are-we-biased-against-machines-17982310152b) 
 - [Generative Adversarial Networks — Part II – Towards Data Science](https://towardsdatascience.com/generative-adversarial-networks-part-ii-6212f7755c1f) 
 - [Capsule Networks Are Shaking up AI  – Here’s How to Use Them](https://www.kdnuggets.com/2017/11/capsule-networks-shaking-up-ai.html) 
+- [Fantastic GANs and where to find them II](http://guimperarnau.com/blog/2017/11/Fantastic-GANs-and-where-to-find-them-II) 
