@@ -320,3 +320,4 @@ The stuff I like
 
 ### November 21, 2017 
 - [Are Machines Biased or Are We Biased Against Machines?](https://towardsdatascience.com/are-machines-biased-or-are-we-biased-against-machines-17982310152b) 
+- [Generative Adversarial Networks — Part II – Towards Data Science](https://towardsdatascience.com/generative-adversarial-networks-part-ii-6212f7755c1f) 
